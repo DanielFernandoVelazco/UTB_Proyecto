@@ -25,5 +25,5 @@ export class Product {
     imgUrl: string;
 
     @OneToMany(() => User, user => user.products)
-    user = User;
+    user: User[];
 }
