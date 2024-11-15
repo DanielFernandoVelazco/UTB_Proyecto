@@ -5,7 +5,7 @@ export const usersMock = [
         email: 'aaaa@aa.com',
         address: 'Calle 111 Carrera 111',
         phone: '1111111111',
-        coutry: 'aaaaa',
+        country: 'aaaaa',
         city: 'AAAAA',
     },
     {
@@ -14,7 +14,7 @@ export const usersMock = [
         email: 'bbbb@bb.com',
         address: 'Calle 222 Carrera 222',
         phone: '2222222222',
-        coutry: 'bbbbb',
+        country: 'bbbbb',
         city: 'BBBBB',
     },
     {
@@ -23,7 +23,7 @@ export const usersMock = [
         email: 'cccc@cc.com',
         address: 'Calle 333 Carrera 333',
         phone: '3333333333',
-        coutry: 'ccccc',
+        country: 'ccccc',
         city: 'CCCCC',
     }
 ]

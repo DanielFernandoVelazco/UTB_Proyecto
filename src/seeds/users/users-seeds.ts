@@ -22,7 +22,7 @@ export class UsersSeed {
                 user.email = userData.email;
                 user.address = userData.address;
                 user.phone = userData.phone;
-                user.coutry = userData.coutry;
+                user.country = userData.country;
                 user.city = userData.city;
                 await this.userRepository.save(user);
 
