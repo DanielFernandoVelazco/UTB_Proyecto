@@ -17,10 +17,12 @@ async function bootstrap() {
       API:  - Backend: Nestjs
             - Interfaz: Swagger 
             - Base de Datos: Postgres 
-            - Imagenes: Docker
+            - Imagen: Docker
             - Despliegue: AWS
         
-      Authores: Grupo 3
+      Authores:   Grupo 3
+                - Camilo Andrés Fernández Echavez
+                - Daniel Fernando Velazco Caceres
         `
     )
     .setVersion('1.0.0')
